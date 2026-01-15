@@ -67,7 +67,7 @@ st.write("")
 colored_header(
     label="Por que usar nossa plataforma?",
     description="Benefícios para corretores, imobiliárias e investidores.",
-    color_name="pink-70"
+    color_name="violet-70"
 )
 
 col1, col2, col3 = st.columns(3)
@@ -103,7 +103,7 @@ st.write("")
 colored_header(
     label="Comece agora",
     description="Faça uma previsão de preço em poucos cliques.",
-    color_name="pink-50"
+    color_name="violet-50"
 )
 
 colA, colB, colC = st.columns([1, 1, 1])
