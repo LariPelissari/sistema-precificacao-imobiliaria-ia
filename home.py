@@ -110,7 +110,7 @@ colA, colB, colC = st.columns([1, 1, 1])
 
 with colB:
     if st.button("🚀 Ir para o Calculador de Preço", use_container_width=True):
-        st.switch_page("app_corretor.py")  # Ajuste para o nome do seu arquivo de previsão
+        st.switch_page("pages/app_corretor.py")  # Ajuste para o nome do seu arquivo de previsão
 
 
 # ----------- FOOTER -----------
